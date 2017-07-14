@@ -1,1 +1,1 @@
--e file:///Users/Lee/Documents/venv_test/importable/mymath#egg=MathProject
+-e git://github.com/ldanilek/venv_test.git#egg=mymath&subdirectory=importable/mymath
